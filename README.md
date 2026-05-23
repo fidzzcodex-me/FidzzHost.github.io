@@ -1,28 +1,34 @@
 <div align="center">
 
-  <!-- Header Animasi -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=4DA8FF&center=true&vCenter=true&width=650&lines=Hi+There+👋;I'm+FidzzHost;Welcome+to+my+GitHub!" alt="Typing SVG" />
+# 👋 Yo, I'm Fidzz
 
-  <!-- Divider animasi gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=FidzzHost&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=JavaScript+Developer;WhatsApp+Bot+Engineer;Building+automation+stuff;Console.log()+is+my+best+friend" />
 
-</div>
-
-<div align="center">
-
-  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
 
 </div>
 
-<div style="background: linear-gradient(135deg, #e6f3ff 0%, #ffffff 100%); padding: 20px; border-radius: 15px; border: 1px solid #b3d9ff;">
+---
 
-```javascript
-const fidzz = {
-  name: "FidzzHost",
-  role: "SQhatsApp Bot Creator",
-  location: "Indonesia 🇮🇩",
-  focus: "Building WhatsApp bots",
-  languages: ["JavaScript"],
-  currentlyLearning: "Node.js & REST API",
-  funFact: "mengandalkan ai"
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+# 🧠 About Me
+
+```js
+class Fidzz {
+  constructor() {
+    this.name = "Fidzz"
+    this.role = "JavaScript Developer"
+    this.focus = "WhatsApp Bot Development"
+    this.language = ["JavaScript"]
+    this.tools = ["Node.js", "Baileys", "Express"]
+    this.database = ["MongoDB", "JSON"]
+    this.status = "Debugging until it works"
+  }
+
+  sayHi() {
+    return "Building bots because humans reply too slow."
+  }
 }
+
+module.exports = Fidzz
