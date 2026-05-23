@@ -1,23 +1,31 @@
 <div align="center">
 
-#  FidszzCodex
+# 👁️ Fidzz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Enjoyer;Humans+need+bots+now" />
+
+<img src="https://i.pinimg.com/originals/2f/0d/8b/2f0d8b7c0f5b1bdb6dcbf0d6c7fbb6d2.gif" width="180"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=00F7FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 ```js
-const fidzz = {
-  role: "JavaScript Developer",
-  focus: "WhatsApp Bot",
-  stack: ["NodeJS", "Baileys"],
-  status: "Debugging..."
+class Fidzz {
+  constructor() {
+    this.role = "JavaScript Developer"
+    this.focus = "WhatsApp Bot"
+    this.stack = ["NodeJS", "Baileys", "MongoDB"]
+    this.status = "Online 24/7 probably"
+  }
+
+  life() {
+    return "Eat -> Code -> Debug -> Repeat"
+  }
 }
