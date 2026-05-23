@@ -1,31 +1,31 @@
 <div align="center">
 
-# 👁️ Fidzz
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=⚡+Fidzz+⚡;JavaScript+Developer;WhatsApp+Bot+Engineer;System+Online..." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Enjoyer;Humans+need+bots+now" />
-
-<img src="https://i.pinimg.com/originals/2f/0d/8b/2f0d8b7c0f5b1bdb6dcbf0d6c7fbb6d2.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=VISITORS&color=00ffcc&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=00ffcc&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&color=00ffcc&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# ```SYSTEM INFO```
 
-```js
-class Fidzz {
-  constructor() {
-    this.role = "JavaScript Developer"
-    this.focus = "WhatsApp Bot"
-    this.stack = ["NodeJS", "Baileys", "MongoDB"]
-    this.status = "Online 24/7 probably"
-  }
+```bash id="90awxq"
+> initializing developer profile...
 
-  life() {
-    return "Eat -> Code -> Debug -> Repeat"
-  }
-}
+Name     : Fidzz
+Role     : JavaScript Developer
+Focus    : WhatsApp Bot Development
+Language : JavaScript
+Runtime  : NodeJS
+Status   : ONLINE
+
+> access granted ✔
