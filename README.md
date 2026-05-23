@@ -19,10 +19,10 @@
 ```javascript
 const fidzz = {
   name: "FidzzHost",
-  role: "Student Developer | WhatsApp Bot Creator",
+  role: "SQhatsApp Bot Creator",
   location: "Indonesia 🇮🇩",
-  focus: "Building automation tools & WhatsApp bots",
-  languages: ["JavaScript", "Python", "PHP", "HTML/CSS"],
+  focus: "Building WhatsApp bots",
+  languages: ["JavaScript"],
   currentlyLearning: "Node.js & REST API",
-  funFact: "Bisa begadang 3 jam buat debug error titik koma 😅"
+  funFact: "mengandalkan ai"
 }
